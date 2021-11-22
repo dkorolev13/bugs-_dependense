@@ -6,5 +6,12 @@
 данную зависимость и написать скрипт/ноутбук, обучающий
 модель по данному датасету
 
+Обученно несколько моделей:
+* LinearRegression
+* Lasso
+* Ridge
+* LassoCV
+* RidgeCV
+* RandomForestRegressor
 
 Лучшее значение RMSE = 1.84 получено для модели RidgeCV(cv=2)
